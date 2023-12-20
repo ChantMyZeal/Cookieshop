@@ -2,3 +2,4 @@
 
 姓名：陈铭钊
 
+cookieshop.sql为本项目所对应的数据库，Cookieshop文件夹中的src目录存放了各类servlet以及其他class，web目录中存放了各类jsp文件，其中admin目录专门存放后台管理的jsp文件。
